@@ -1,16 +1,22 @@
 h1{
-color:midnightblue
+color:yellow
 
 }
 
 
 h2{
-color: midnightblue
+color: yellow
 
 }
 
 p{
 font-style: oblique;
 color: midnightblue;
+background-color: aqua;
+}
+
+body{ 
+background: linear-gradient(black,red )
+
 
 }
