@@ -11,12 +11,12 @@ color: yellow
 
 p{
 font-style: oblique;
-color: midnightblue;
-background-color: aqua;
+color: yellow;
+background-color: green;
 }
 
 body{ 
-background: linear-gradient(black,red )
+background: linear-gradient(black,green )
 
 
 }
