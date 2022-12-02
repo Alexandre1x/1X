@@ -9,6 +9,15 @@ color: yellow
 
 }
 
+h3 {color: yellow
+
+
+}
+
+
+
+
+
 p{
 font-style: oblique;
 color: yellow;
@@ -24,6 +33,7 @@ background: linear-gradient(black,green )
 nav{
 font-display: 30px;
 font-style: oblique;
+background-color: aliceblue;
 
 
 
@@ -40,3 +50,4 @@ margin: 0 0 0 30%;
 font-style: oblique;
 
 }
+
